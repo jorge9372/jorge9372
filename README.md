@@ -18,7 +18,7 @@
 ## Algunos Alias
 
 
-Filters the folders in our directory according to the given word
+Filters the folders in our directory according to the given word.
 ```
 alias findd="ls ~/ | grep $1"
 ```
