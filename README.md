@@ -1,7 +1,7 @@
 # Hello everyone, I'm Jorge Villafraz
-## I am a developer in development stage.
+## I am a developer in development stage.🚧
 
- I am a civil and agronomist engineer from Venezuela. My task is to apply programming in the professional field in which I develop and go beyond these limits.
+ I am a civil and agronomist engineer from Venezuela. My task is to apply programming in the professional field in which I develop and go beyond these limits.🚀
 
 ---
 
