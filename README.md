@@ -1,5 +1,5 @@
 # Hello everyone, I'm Jorge Villafraz
-## I am a developer in development stage.🚧
+## Developer in development stage.🚧
 
 🌱 I’m currently learning in **Undefined-Academy JavaScript Full-stack Bootcamp**🚀
 
