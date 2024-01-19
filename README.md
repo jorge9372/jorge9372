@@ -1,7 +1,7 @@
 # Hello everyone, I'm Jorge Villafraz
-## Developer in development stage.🚧
+## Full Stack Developer🚧
 
-🌱 I’m currently learning in **Undefined-Academy JavaScript Full-stack Bootcamp**🚀
+🌱🚀
 
 ---
 
